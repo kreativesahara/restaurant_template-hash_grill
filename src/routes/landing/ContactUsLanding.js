@@ -33,7 +33,7 @@ const ContactUsLanding = () => {
           <p>Contact us if you have any questions</p>
         </div>
         <div>
-          <h2>506 Roy Alley 80202 </h2>
+          <h2>Nairobi GPO 00100 </h2>
           <p>Pangani, Nairobi</p>
         </div>
         <div>

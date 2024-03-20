@@ -20,7 +20,7 @@ const Hero = () => {
           <span>Welcome</span>
           <h1 className="txt-white">try something amazing</h1>
           <p className="txt-white">
-            Ordering your fave Meal is quick and easy with our app or on our
+            Ordering your favourite Meal is quick and easy with our
             website.
           </p>
         </motion.div>
