@@ -4,15 +4,15 @@ export const AllCategories = [
     id: "Menu",
   },
   {
-    name: "Pizza",
-    id: "Pizza",
+    name: "Main Dishes",
+    id: "pizza",
   },
   {
-    name: "Pasta",
+    name: "Snacks",
     id: "Pasta",
   },
   {
-    name: "Sushi",
+    name: "Grills",
     id: "Sushi",
   },
   {
@@ -20,7 +20,7 @@ export const AllCategories = [
     id: "Drinks",
   },
   {
-    name: "Sale",
+    name: "Today's Specials",
     id: "Sale",
   },
 ];
