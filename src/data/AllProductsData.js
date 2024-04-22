@@ -108,7 +108,7 @@ export const allProductsData = [
   {
     id: 'cheese-pizza',
     ItemImg: CheesePizza,
-    ItemName: 'Cheese Pizza',
+    ItemName: 'Cheese Pizza noma',
     ItemIngredients: 'Pizza dough, pizza sauce, provolone cheese, mozzarella.',
     ItemPrice: (2).toFixed(2),
     Category: 'Pizza',

@@ -19,7 +19,7 @@ const refundsContent = [
     {
         id: 3,
         title: 'Refund Decisions',
-        content: `Refund decisions will be made at the discretion of Pizza Time, taking into account the validity of the refund request and whether the refund eligibility criteria have been met. We reserve the right to approve or deny refund requests based on the circumstances of each case.`
+        content: `Refund decisions will be made at the discretion of Purchase, taking into account the validity of the refund request and whether the refund eligibility criteria have been met. We reserve the right to approve or deny refund requests based on the circumstances of each case.`
     },
     {
         id: 4,
@@ -42,8 +42,8 @@ const refundsContent = [
     {
         id: 7,
         title: 'Contact Us',
-        content: `If you have any questions or concerns regarding this Refund Policy or our services, please contact us at support@pizzatime.com.
-        By using Pizza Time's services, you acknowledge that you have read, understood, and agree to this Refund Policy.`
+        content: `If you have any questions or concerns regarding this Refund Policy or our services, please contact us at support@hashgrill.com.
+        By using our purchase services, you acknowledge that you have read, understood, and agree to this Refund Policy.`
     },
 
 ]

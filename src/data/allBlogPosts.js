@@ -12,11 +12,11 @@ import Img10 from "../assets/images/blog/post-10.jpeg";
 const allBlogPosts = [
   {
     img: Img1,
-    name: "Pizza crust types",
+    name: "Pizza crust types data1",
     intro:
       "Embark on a culinary adventure as we explore these delectable pizza crusts, each contributing its own character to the beloved dish we all know and love",
     date: "July 12, 2023",
-    author: "Daniel Wilson",
+    author: "Daniel mwendi",
     id: 1,
     content:
       `When it comes to pizza, the crust is more than just a vessel for toppings – it's a canvas that can influence the entire dining experience. From thin and crispy to thick and doughy, pizza crusts come in a variety of types, each with its own unique characteristics and regional influences. Join us as we dive into the delightful world of pizza crusts and explore the different types that have captured the hearts and taste buds of pizza enthusiasts around the globe.
@@ -53,7 +53,7 @@ const allBlogPosts = [
     intro:
       "When it comes to pizza, the crust is more than just a vessel for toppings – it's a canvas that can influence the entire dining experience",
     date: "July 1, 2023",
-    author: "Anna Anderson",
+    author: "Zakaria Mohammed",
     id: 2,
     content: `When it comes to pizza, the crust is more than just a vessel for toppings – it's a canvas that can influence the entire dining experience. From thin and crispy to thick and doughy, pizza crusts come in a variety of types, each with its own unique characteristics and regional influences. Join us as we dive into the delightful world of pizza crusts and explore the different styles that have captured the hearts and taste buds of pizza enthusiasts around the globe.
 
@@ -86,7 +86,7 @@ const allBlogPosts = [
     intro:
       "Discover the art of repurposing leftover pizza dough with our inventive ideas. From savory bites to sweet delights, your leftover dough has never been this exciting",
     date: "June 27, 2023",
-    author: "Catherine Wright",
+    author: "Catherine Ndemo",
     id: 3,
     content: `Got some leftover pizza dough from your recent pizza-making adventure? Don't let it go to waste! Leftover pizza dough is a versatile ingredient that can be transformed into a variety of delicious creations. Whether you're in the mood for something savory or sweet, we've got you covered with creative ideas to make the most out of that extra dough. Let's dive into the wonderful world of repurposing pizza dough leftovers.
 
@@ -166,7 +166,7 @@ const allBlogPosts = [
     intro:
       "Turn your pizza party into an unforgettable event with these five accessories that add convenience and style to the festivities",
     date: "May 10, 2023",
-    author: "Cara Nelson",
+    author: "Cara Shanique",
     id: 5,
     content: `Planning a pizza party? Elevate the experience from ordinary to extraordinary with the right accessories. Whether you're hosting a casual get-together or a themed pizza night, these accessories will add a touch of flair and convenience to your pizza party. Let's explore five must-have accessories that will take your pizza party to the next level.
 
@@ -194,7 +194,7 @@ const allBlogPosts = [
     intro:
       "Experience the delectable world of plant-based pizza with the best vegan cheese and meat alternatives",
     date: "May 3, 2023",
-    author: "Tom Wilson",
+    author: "Wilson Muthoni",
     id: 6,
     content: `Looking to create a delicious vegan pizza that's just as satisfying as its traditional counterparts? With the right vegan cheese and meat alternatives, you can enjoy all the flavors and textures you love without compromising your dietary choices. Whether you're a seasoned vegan or simply exploring plant-based options, let's dive into the world of the best vegan cheese and meat for creating mouthwatering pizzas that will leave everyone asking for seconds.
 
