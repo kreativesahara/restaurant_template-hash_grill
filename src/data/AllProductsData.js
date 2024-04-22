@@ -110,7 +110,7 @@ export const allProductsData = [
     ItemImg: CheesePizza,
     ItemName: 'Cheese Pizza noma',
     ItemIngredients: 'Pizza dough, pizza sauce, provolone cheese, mozzarella.',
-    ItemPrice: (2).toFixed(2),
+    ItemPrice: (1200).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -132,7 +132,7 @@ export const allProductsData = [
     ItemName: 'Veggie Pizza',
     ItemIngredients:
       'Pizza sauce, Onion, Capsicum, Pineapple, Ginger, Hotshot sauce, Coriander, Garlic sauce, Butter sauce, Cheese.',
-    ItemPrice: (9).toFixed(2),
+    ItemPrice: (900).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -153,7 +153,7 @@ export const allProductsData = [
     ItemName: 'Pepperoni Pizza',
     ItemIngredients:
       'Pizza crust yeast, pepperoni, tomato paste, mozzarella cheese, sugar.',
-    ItemPrice: (5).toFixed(2),
+    ItemPrice: (1500).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -174,7 +174,7 @@ export const allProductsData = [
     ItemName: 'Meat Pizza',
     ItemIngredients:
       'Sausage, pizza dough, bacon, pizza sauce, red pepper flakes.',
-    ItemPrice: (10).toFixed(2),
+    ItemPrice: (1000).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -195,7 +195,7 @@ export const allProductsData = [
     ItemName: 'Margherita Pizza',
     ItemIngredients:
       'Pizza dough, tomato sauce, fresh mozzarella, olive oil, basil leaves.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (850).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -216,7 +216,7 @@ export const allProductsData = [
     ItemName: 'BBQ Chicken Pizza',
     ItemIngredients:
       'Rotisserie chicken, pizza dough, bbq sauce, smoked cheddar cheese, mozzarella cheese.',
-    ItemPrice: (10).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -236,7 +236,7 @@ export const allProductsData = [
     ItemImg: AllaPalla,
     ItemName: 'Pizza alla pala',
     ItemIngredients: 'Cheese, cherry tomatoes, arugula, olive oil, yeast.',
-    ItemPrice: (12).toFixed(2),
+    ItemPrice: (1200).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -257,7 +257,7 @@ export const allProductsData = [
     ItemName: 'Prosciutto e Funghi Pizza',
     ItemIngredients:
       'Italian sausage meat, truffle oil, pizza dough, san marzano tomatoes, bocconcini cheese.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -278,7 +278,7 @@ export const allProductsData = [
     ItemName: 'Detroit-Style Pizza',
     ItemIngredients:
       'Pizza dough, pizza sauce, brick cheese, rapid rise yeast, olive oil.',
-    ItemPrice: (11).toFixed(2),
+    ItemPrice: (1100).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -299,7 +299,7 @@ export const allProductsData = [
     ItemName: 'Garlic Fingers',
     ItemIngredients:
       'Bread flour, mozzarella cheese, butter, olive oil, instant yeast.',
-    ItemPrice: (7).toFixed(2),
+    ItemPrice: (700).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -320,7 +320,7 @@ export const allProductsData = [
     ItemName: 'St. Louis-Style Pizza',
     ItemIngredients:
       'Liquid smoke, swiss cheese, white cheddar cheese, light corn syrup, pizza sauce.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -340,7 +340,7 @@ export const allProductsData = [
     ItemImg: Rustica,
     ItemName: 'Pizza Rustica',
     ItemIngredients: 'Prosciutto, pepperoni, mozzarella, crust, eggs.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1030).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -361,7 +361,7 @@ export const allProductsData = [
     ItemName: 'Pizza pesto Genovese',
     ItemIngredients:
       'Pine nuts, baby potatoes, snow pea shoots, lemon, buffalo mozzarella.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -381,7 +381,7 @@ export const allProductsData = [
     ItemImg: Efichi,
     ItemName: 'Pizza e fichi',
     ItemIngredients: 'Coconut flour, truffle oil, fig jam, cheese, prosciutto.',
-    ItemPrice: (12).toFixed(2),
+    ItemPrice: (1200).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -402,7 +402,7 @@ export const allProductsData = [
     ItemName: 'Apizza',
     ItemIngredients:
       'Ricotta cheese, tomato sauce, fresh basil pesto, fresh mozzarella cheese, semolina flour.',
-    ItemPrice: (11).toFixed(2),
+    ItemPrice: (1100).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -423,7 +423,7 @@ export const allProductsData = [
     ItemName: 'Stuffed Pizza',
     ItemIngredients:
       'Hot italian sausage, sweet italian sausage, pizza dough, red pepper flakes, olive oil.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -444,7 +444,7 @@ export const allProductsData = [
     ItemName: 'Pugliese Pizza',
     ItemIngredients:
       'Sloppy joe, banana peppers, ground beef, pizza dough, ricotta cheese.',
-    ItemPrice: (9).toFixed(2),
+    ItemPrice: (900).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -465,7 +465,7 @@ export const allProductsData = [
     ItemName: 'Tomato Pie',
     ItemIngredients:
       'Pizza dough, san marzano, red pepper flakes, pizza stone, olive oil.',
-    ItemPrice: (15).toFixed(2),
+    ItemPrice: (1500).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -485,7 +485,7 @@ export const allProductsData = [
     ItemImg: Fugaza,
     ItemName: 'Fugazza',
     ItemIngredients: 'Mozzarella cheese, sugar, dry yeast, all purpose flour.',
-    ItemPrice: (10).toFixed(2),
+    ItemPrice: (1000).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -506,7 +506,7 @@ export const allProductsData = [
     ItemName: 'Pizza fiori di zucca',
     ItemIngredients:
       'Zucchini blossoms, pizza dough, buffalo mozzarella, olive oil.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -527,7 +527,7 @@ export const allProductsData = [
     ItemName: 'Fugazzeta',
     ItemIngredients:
       'Feta cheese, mozzarella cheese, parmesan cheese, olive oil, yeast.',
-    ItemPrice: (9).toFixed(2),
+    ItemPrice: (900).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -548,7 +548,7 @@ export const allProductsData = [
     ItemName: 'Pizza Carbonara',
     ItemIngredients:
       'Refrigerated pizza crust, monterey jack cheese, parmesan cheese, butter, chicken bouillon.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -569,7 +569,7 @@ export const allProductsData = [
     ItemName: 'Grandma Pie',
     ItemIngredients:
       'Dark brown sugar, san marzano tomatoes, tomato paste, bread flour, red pepper flakes.',
-    ItemPrice: (11).toFixed(2),
+    ItemPrice: (1100).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -590,7 +590,7 @@ export const allProductsData = [
     ItemName: 'Pizza al padellino',
     ItemIngredients:
       'Mozzarella cheese, prosciutto di parma, dough, baby arugula, black pepper',
-    ItemPrice: (10).toFixed(2),
+    ItemPrice: (1000).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -611,7 +611,7 @@ export const allProductsData = [
     ItemName: 'California-Style Pizza',
     ItemIngredients:
       'Feta cheese, marinated artichoke hearts, pizza crust, red bell pepper, red onion.',
-    ItemPrice: (15).toFixed(2),
+    ItemPrice: (1500).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -632,7 +632,7 @@ export const allProductsData = [
     ItemName: 'Pizza fritta',
     ItemIngredients:
       'Ricotta cheese, tomato sauce, tipo 00, neapolitan pizza base, mozzarella cheese.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -653,7 +653,7 @@ export const allProductsData = [
     ItemName: 'Pinsa romana',
     ItemIngredients:
       'Rice flour, olive oil, plain flour, sea salt, dried yeast.',
-    ItemPrice: (5).toFixed(2),
+    ItemPrice: (1500).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -674,7 +674,7 @@ export const allProductsData = [
     ItemName: 'Chicago Thin Crust Pizza',
     ItemIngredients:
       'Sweet italian sausage, semolina flour, pizza sauce, giardiniera, sugar.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -695,7 +695,7 @@ export const allProductsData = [
     ItemName: 'Greek-Style Pizza',
     ItemIngredients:
       'White cheddar, sauce, tomato paste, bread flour, red pepper flakes.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -715,7 +715,7 @@ export const allProductsData = [
     ItemImg: PizzaRomana,
     ItemName: 'Pizza Romana',
     ItemIngredients: 'Fresh mozzarella, bread flour, tomato, olive oil, yeast',
-    ItemPrice: (11).toFixed(2),
+    ItemPrice: (1100).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -735,7 +735,7 @@ export const allProductsData = [
     ItemImg: ExtraCheesePizza,
     ItemName: 'Extra Cheese Pizza',
     ItemIngredients: 'Homemade pizza sauce, fresh mozzarella cheese, mozzarella cheese, parmesan cheese, olive oil',
-    ItemPrice: (5).toFixed(2),
+    ItemPrice: (500).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -757,7 +757,7 @@ export const allProductsData = [
     ItemName: 'Veggie Pizza',
     ItemIngredients:
       'Pizza sauce, Onion, Capsicum, Pineapple, Ginger, Hotshot sauce, Coriander, Garlic sauce, Butter sauce, Cheese.',
-    ItemPrice: (9).toFixed(2),
+    ItemPrice: (900).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -778,7 +778,7 @@ export const allProductsData = [
     ItemName: 'Pepperoni Pizza',
     ItemIngredients:
       'Pizza crust yeast, pepperoni, tomato paste, mozzarella cheese, sugar.',
-    ItemPrice: (5).toFixed(2),
+    ItemPrice: (500).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -799,7 +799,7 @@ export const allProductsData = [
     ItemName: 'Meat Pizza',
     ItemIngredients:
       'Sausage, pizza dough, bacon, pizza sauce, red pepper flakes.',
-    ItemPrice: (10).toFixed(2),
+    ItemPrice: (1000).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -820,7 +820,7 @@ export const allProductsData = [
     ItemName: 'Margherita Pizza',
     ItemIngredients:
       'Pizza dough, tomato sauce, fresh mozzarella, olive oil, basil leaves.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -841,7 +841,7 @@ export const allProductsData = [
     ItemName: 'BBQ Chicken Pizza',
     ItemIngredients:
       'Rotisserie chicken, pizza dough, bbq sauce, smoked cheddar cheese, mozzarella cheese.',
-    ItemPrice: (10).toFixed(2),
+    ItemPrice: (1000).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -861,7 +861,7 @@ export const allProductsData = [
     ItemImg: AllaPalla,
     ItemName: 'Pizza alla pala',
     ItemIngredients: 'Cheese, cherry tomatoes, arugula, olive oil, yeast.',
-    ItemPrice: (12).toFixed(2),
+    ItemPrice: (1200).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -882,7 +882,7 @@ export const allProductsData = [
     ItemName: 'Prosciutto e Funghi Pizza',
     ItemIngredients:
       'Italian sausage meat, truffle oil, pizza dough, san marzano tomatoes, bocconcini cheese.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (800).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -903,7 +903,7 @@ export const allProductsData = [
     ItemName: 'Detroit-Style Pizza',
     ItemIngredients:
       'Pizza dough, pizza sauce, brick cheese, rapid rise yeast, olive oil.',
-    ItemPrice: (11).toFixed(2),
+    ItemPrice: (1100).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -924,7 +924,7 @@ export const allProductsData = [
     ItemName: 'Garlic Fingers',
     ItemIngredients:
       'Bread flour, mozzarella cheese, butter, olive oil, instant yeast.',
-    ItemPrice: (7).toFixed(2),
+    ItemPrice: (700).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -945,7 +945,7 @@ export const allProductsData = [
     ItemName: 'St. Louis-Style Pizza',
     ItemIngredients:
       'Liquid smoke, swiss cheese, white cheddar cheese, light corn syrup, pizza sauce.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -965,7 +965,7 @@ export const allProductsData = [
     ItemImg: Rustica,
     ItemName: 'Pizza Rustica',
     ItemIngredients: 'Prosciutto, pepperoni, mozzarella, crust, eggs.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -986,7 +986,7 @@ export const allProductsData = [
     ItemName: 'Pizza pesto Genovese',
     ItemIngredients:
       'Pine nuts, baby potatoes, snow pea shoots, lemon, buffalo mozzarella.',
-    ItemPrice: (13).toFixed(2),
+    ItemPrice: (1300).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -1006,7 +1006,7 @@ export const allProductsData = [
     ItemImg: Efichi,
     ItemName: 'Pizza e fichi',
     ItemIngredients: 'Coconut flour, truffle oil, fig jam, cheese, prosciutto.',
-    ItemPrice: (12).toFixed(2),
+    ItemPrice: (1200).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {

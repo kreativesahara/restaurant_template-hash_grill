@@ -39,7 +39,7 @@ const ContactLanding = () => {
           />
           <Marker position={position}>
             <Popup>
-              A pretty CSS3 popup. <br /> Easily customizable.
+              A pretty Kreative Sahara popup. <br /> Easily customizable.
             </Popup>
           </Marker>
         </MapContainer>
@@ -58,7 +58,7 @@ const ContactLanding = () => {
           <p>Our dedicated customer support team is ready to assist you with any inquiries you may have.</p>
           <ul>
             <li>- Email: customers@hashgrill.com</li>
-            <li>- Phone: 000 (000) 123 4567</li>
+            <li>- Phone: +254 (706) 682 3590</li>
             <li>- Hours: Monday - Friday, 8:00am - 9:00pm (EST)</li>
           </ul>
         </section>

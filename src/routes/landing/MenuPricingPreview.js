@@ -33,7 +33,7 @@ export default class MenuPricingPreview extends React.Component {
                 className="pricing-grid-item flex-container flex-row"
               >
                 <img
-                  className="pricing-img"
+                 className="pricing-img"
                   alt={menu.name}
                   src={menu.img375}
                 />

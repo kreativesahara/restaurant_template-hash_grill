@@ -47,11 +47,11 @@ const MenuGridItem = ({ singleProduct, handleAddProduct, handleRemoveProduct }) 
       <div className="price">
         {singleProduct.sale === true ?
           <section className="sale-pricing">
-            <p className="price-num-before"><span>$</span>{singleProduct.ItemPriceBefore}</p>
-            <p className="price-num"><span>$</span>{singleProduct.ItemPrice}</p>
+            <p className="price-num-before"><span>KES </span>{singleProduct.ItemPriceBefore}</p>
+            <p className="price-num"><span>KES </span>{singleProduct.ItemPrice}</p>
           </section>
           :
-          <p className="price-num"><span>$</span>{singleProduct.ItemPrice}</p>
+          <p className="price-num"><span>KES </span>{singleProduct.ItemPrice}</p>
         }
         <AddToCartButton
           handleAddProduct={handleAddProduct}

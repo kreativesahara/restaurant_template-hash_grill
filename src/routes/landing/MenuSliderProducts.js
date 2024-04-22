@@ -21,7 +21,7 @@ const MenuSliderProducts = ({ singleProduct }) => {
           {singleProduct.describtion}
         </p>
         <p className="dish-details-pricing">
-          <span>$</span>
+          <span>KES </span>
           {singleProduct.price}
         </p>
       </section>

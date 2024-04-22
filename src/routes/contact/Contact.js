@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import ReCAPTCHA from "react-google-recaptcha"
+//import ReCAPTCHA from "react-google-recaptcha"
 import { Link } from "react-router-dom";
 //components
 import validateForm from "../../components/validateForm";
@@ -138,7 +138,7 @@ const Contact = () => {
               />
             </div>
             <span className="input-validation-error">{formError.message}</span>
-            <ReCAPTCHA ref={captchaRef} sitekey={process.env.REACT_APP_CAPTCHA_KEY} theme="dark" />
+            {/* <ReCAPTCHA ref={captchaRef} sitekey={process.env.REACT_APP_CAPTCHA_KEY} theme="dark" /> */}
             <span className="input-validation-error">{captchaError}</span>
             <button type="submit" className="active-button-style" >
               Send

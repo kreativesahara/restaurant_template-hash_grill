@@ -29,7 +29,7 @@ const ContactUsLanding = () => {
       />
       <section className='company-details'>
         <div>
-          <h2>000 (000) 123 4567</h2>
+          <h2> +254 (706) 682 3590</h2>
           <p>Contact us if you have any questions</p>
         </div>
         <div>
